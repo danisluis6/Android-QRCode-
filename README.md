@@ -1,0 +1,2 @@
+# Android-QRCode-
+Android QRCode 
